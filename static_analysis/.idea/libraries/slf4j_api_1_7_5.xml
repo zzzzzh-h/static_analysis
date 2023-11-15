@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/axml-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-cli-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/axmlprinter2-2016-07-27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

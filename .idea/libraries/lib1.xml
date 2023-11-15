@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/soot-infoflow/lib/j2ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soot-infoflow/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soot-infoflow/lib/cos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soot-infoflow/lib/org.hamcrest.core_1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

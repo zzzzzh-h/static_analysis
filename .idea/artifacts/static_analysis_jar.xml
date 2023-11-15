@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="static_analysis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/static_analysis_jar</output-path>
+    <root id="archive" name="static_analysis.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/static_analysis/src/Entrypoint/resource/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="static_analysis" />
+      <element id="module-output" name="soot-infoflow-summaries" />
+      <element id="module-output" name="soot-infoflow" />
+      <element id="module-output" name="heros" />
+      <element id="module-output" name="main" />
+      <element id="module-output" name="generated" />
+      <element id="module-output" name="soot-infoflow-android" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../java/soot/rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../_download/trove-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../_download/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot/eclipse/ca.mcgill.sable.soot.updatesite/features/ca.mcgill.sable.soot.feature_2.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../_download/asm-util-9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../_download/asm-tree-9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot/eclipse/ca.mcgill.sable.soot.updatesite/artifacts.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot/eclipse/ca.mcgill.sable.soot.updatesite/content.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot-infoflow/lib/j2ee.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot-infoflow/lib/junit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot-infoflow/lib/cos.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot-infoflow/lib/org.hamcrest.core_1.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../java/soot/soot1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../_download/soot-infoflow-cmd-classes.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot-infoflow-android/lib/junit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot-infoflow-android/lib/protobuf-java-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/soot-infoflow-android/lib/org.hamcrest.core_1.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../_download/dexlib2-2.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../_download/polyglot-2006.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../_download/ant-1.5.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="rt" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/static_analysis/libs/axml-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/static_analysis/libs/axmlprinter2-2016-07-27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/static_analysis/libs/commons-cli-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/static_analysis/libs/commons-codec-1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/static_analysis/libs/fastjson2-2.0.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/static_analysis/libs/guava-18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/static_analysis/libs/rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/static_analysis/libs/slf4j-api-1.7.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

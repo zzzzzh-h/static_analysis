@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/binary_code_analysis.iml" filepath="$PROJECT_DIR$/.idea/binary_code_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soot/src/main/generated/generated.iml" filepath="$PROJECT_DIR$/soot/src/main/generated/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heros/heros.iml" filepath="$PROJECT_DIR$/heros/heros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soot/src/main/main.iml" filepath="$PROJECT_DIR$/soot/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soot-infoflow/soot-infoflow.iml" filepath="$PROJECT_DIR$/soot-infoflow/soot-infoflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soot-infoflow-android/soot-infoflow-android.iml" filepath="$PROJECT_DIR$/soot-infoflow-android/soot-infoflow-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soot-infoflow-summaries/soot-infoflow-summaries.iml" filepath="$PROJECT_DIR$/soot-infoflow-summaries/soot-infoflow-summaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_analysis/static_analysis.iml" filepath="$PROJECT_DIR$/static_analysis/static_analysis.iml" />
+    </modules>
+  </component>
+</project>

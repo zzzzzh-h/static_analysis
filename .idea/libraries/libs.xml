@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/static_analysis/libs/axml-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static_analysis/libs/axmlprinter2-2016-07-27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static_analysis/libs/commons-cli-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static_analysis/libs/commons-codec-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static_analysis/libs/fastjson2-2.0.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static_analysis/libs/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static_analysis/libs/rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static_analysis/libs/slf4j-api-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
